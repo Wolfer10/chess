@@ -1,9 +1,9 @@
 Alkalmazás fejlesztés gyakorlat beadandó.
 --------------------------
 Rövid leírás a programról:
-Ez egy multimodule maven projekt web, adatbázis és gui részre bontva.
+Ez egy multimodule maven projekt web, adatbázis és gui részre bontva java nyelven.
 A gui javaFx, az adatbázis jdbc és sqlite, a web jsp segítségével készült.
-Maga az alkalmazás egy sakk. ahol 2 játékos tud játsazni felváltva az egér segítségével.
+Maga az alkalmazás egy sakk, ahol 2 játékos tud játsazni felváltva az egér segítségével.
 A start gombra kattintás után meg kell adni a játékosok nevét. Ezután megjelenik a pálya.
 A sakk bábúk mozgatása úgy történik, hogy rá kell kattintani egy bábúra és tetszőleges mezőre lehet "vonszolni" az egér mutatójával együtt.
 Leütesek működnek. Sáncolás, átváltozás, menet közbeni ütés automatiksan működnek.
