@@ -1,0 +1,45 @@
+body{
+
+}
+table {
+    width: 1000px;
+    margin: 20px auto;
+
+    /*border: 3px solid black;*/
+    border-radius: 10px 10px 10px 10px;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+
+
+
+td, th {
+    padding: 30px;
+    text-align: center;
+    background-color: bisque;
+    /*border-radius: 10px 10px 10px 10px;*/
+    border: 1px solid black;
+}
+th{
+    border-bottom: #8b6846 2px solid;
+
+}
+
+form {
+    width: 1000px;
+    height: 50px;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+input {
+    width: 100px;
+}
+
+#button {
+    width: 30px;
+}
